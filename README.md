@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 -->
 
-
-- 🌱 I’m currently learning DB/Golang/DistributedSystem
+I am currently involved in the fields of databases and distributed systems
+- 🌱 I’m currently involved in DB, Golang and distributed systems.
