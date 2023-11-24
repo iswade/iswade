@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-24T12:15:39.113Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="wiNL-ucpUpsXFOT-_w8f" version="22.1.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-24T12:22:53.944Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="iGx9KYGGlcweIPwyDrib" version="22.1.3" type="github" pages="5">
   <diagram id="iGxLTob1CFTJOu1sMd-u" name="主卧">
-    <mxGraphModel dx="696" dy="409" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="400" math="0" shadow="0">
+    <mxGraphModel dx="696" dy="409" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X76r_KgreaUT2XttwzLK" name="次卧">
-    <mxGraphModel dx="609" dy="358" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="400" math="0" shadow="0">
+    <mxGraphModel dx="609" dy="358" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="400" pageHeight="400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,7 +118,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aLSxvwJ0gBWf9LIRor2G" name="儿童房">
-    <mxGraphModel dx="609" dy="358" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="400" math="0" shadow="0">
+    <mxGraphModel dx="609" dy="358" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -171,7 +171,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-19VYibgQqfg_9gxcEhi" name="书房">
-    <mxGraphModel dx="580" dy="340" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="400" math="0" shadow="0">
+    <mxGraphModel dx="580" dy="340" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="400" pageHeight="400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,7 +179,7 @@
           <mxGeometry x="60" y="89" width="275" height="215" as="geometry" />
         </mxCell>
         <mxCell id="GJgxfpKIy5aZmgsc_Pyk-2" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="213" y="127.75" width="70" height="30" as="geometry" />
+          <mxGeometry x="213" y="120" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="GJgxfpKIy5aZmgsc_Pyk-3" value="钢琴(w140h35)" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="178" y="89" width="140" height="35" as="geometry" />
@@ -188,10 +188,10 @@
           <mxGeometry x="60" y="194" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="GJgxfpKIy5aZmgsc_Pyk-5" value="椅子(60x60)" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="137" y="174" width="60" height="60" as="geometry" />
+          <mxGeometry x="137" y="181" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GJgxfpKIy5aZmgsc_Pyk-6" value="椅子(60x60)" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fontSize=9;glass=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="236" y="174" width="60" height="60" as="geometry" />
+          <mxGeometry x="236" y="181" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GJgxfpKIy5aZmgsc_Pyk-7" value="书桌(w210h70)&lt;br style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;&lt;br style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="110" y="234" width="210" height="70" as="geometry" />
@@ -199,8 +199,8 @@
         <mxCell id="GJgxfpKIy5aZmgsc_Pyk-8" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;窗&lt;br&gt;帘&lt;br&gt;盒&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="89" width="15" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="GJgxfpKIy5aZmgsc_Pyk-9" value="吊柜(w210h40)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="110" y="264" width="210" height="40" as="geometry" />
+        <mxCell id="GJgxfpKIy5aZmgsc_Pyk-9" value="吊柜(w210h30)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="110" y="269" width="210" height="35" as="geometry" />
         </mxCell>
         <mxCell id="GJgxfpKIy5aZmgsc_Pyk-10" value="空调" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="60" y="89" width="50" height="107.5" as="geometry" />
@@ -212,7 +212,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CqVg6Tqw2GVn2pjmF0fm" name="数据">
-    <mxGraphModel dx="1218" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1218" dy="715" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
