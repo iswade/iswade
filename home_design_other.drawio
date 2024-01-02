@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T01:22:40.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="SqIzSn_pfi2C_ztJ58qt" version="22.1.16" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-02T01:22:59.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="aDs30Ar-emW0HqJy3w_j" version="22.1.16" type="github" pages="3">
   <diagram name="主卧" id="f5MATyeTOUA-6ZOFd1rr">
     <mxGraphModel dx="1085" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,7 +121,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DClCDwI4SFqA70jx7914" name="次卧">
-    <mxGraphModel dx="1085" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1276" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -199,6 +199,65 @@
         </mxCell>
         <mxCell id="UhFT6gp5prm0CYchNIjC-24" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;门&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UhFT6gp5prm0CYchNIjC-22">
           <mxGeometry y="8" width="10" height="85" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yUQ1r5wuLm538Zt-OjW7" name="儿童房">
+    <mxGraphModel dx="1085" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OygMNkcb3Iacz5CYOBrr-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="285" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="OygMNkcb3Iacz5CYOBrr-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;椅子&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="110" y="235" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OygMNkcb3Iacz5CYOBrr-3" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;门&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OygMNkcb3Iacz5CYOBrr-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="135" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="OygMNkcb3Iacz5CYOBrr-5" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OygMNkcb3Iacz5CYOBrr-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="15" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="OygMNkcb3Iacz5CYOBrr-7" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;床&lt;br&gt;头&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="347.5" width="10" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="OygMNkcb3Iacz5CYOBrr-8" value="&lt;span style=&quot;font-size: 5px;&quot;&gt;窗&lt;br style=&quot;font-size: 5px;&quot;&gt;帘&lt;br style=&quot;font-size: 5px;&quot;&gt;盒&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="15" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OygMNkcb3Iacz5CYOBrr-9" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;书桌&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="60" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="OygMNkcb3Iacz5CYOBrr-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="45" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OygMNkcb3Iacz5CYOBrr-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="160" width="45" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OygMNkcb3Iacz5CYOBrr-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OygMNkcb3Iacz5CYOBrr-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OygMNkcb3Iacz5CYOBrr-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="160" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OygMNkcb3Iacz5CYOBrr-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="315" width="10" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="OygMNkcb3Iacz5CYOBrr-16" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;门&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OygMNkcb3Iacz5CYOBrr-15">
+          <mxGeometry width="10" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="OygMNkcb3Iacz5CYOBrr-17" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;门&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OygMNkcb3Iacz5CYOBrr-15">
+          <mxGeometry y="9.996831683168317" width="10" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
