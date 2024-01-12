@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T22:50:59.106Z" agent="Mozilla/5.0 (iPad; CPU OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/120.0.2210.86 Version/17.0 Mobile/15E148 Safari/604.1" etag="wRuOQJn8o-PiXIG53YG0" version="22.1.18" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-12T23:05:47.047Z" agent="Mozilla/5.0 (iPad; CPU OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/120.0.2210.86 Version/17.0 Mobile/15E148 Safari/604.1" etag="358_9gllottM5rDevFBW" version="22.1.18" type="github" pages="8">
   <diagram name="主卧" id="n_CLa2STl4GSUwnZCf-Y">
     <mxGraphModel dx="1306" dy="163" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -349,7 +349,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="书房1" id="KK0JacYdIK9NtXBbBl1e">
-    <mxGraphModel dx="877" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="400" pageHeight="400" math="0" shadow="0">
+    <mxGraphModel dx="477" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="400" pageHeight="400" math="0" shadow="0">
       <root>
         <mxCell id="RoFgEWZ_f8fo2vbeya6f-0" />
         <mxCell id="RoFgEWZ_f8fo2vbeya6f-1" parent="RoFgEWZ_f8fo2vbeya6f-0" />
@@ -357,13 +357,13 @@
           <mxGeometry x="60" y="89" width="275" height="215" as="geometry" />
         </mxCell>
         <mxCell id="RoFgEWZ_f8fo2vbeya6f-7" value="椅子" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fontSize=9;glass=0;shadow=0;" parent="RoFgEWZ_f8fo2vbeya6f-1" vertex="1">
-          <mxGeometry x="118" y="210" width="50" height="50" as="geometry" />
+          <mxGeometry x="135" y="212" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RoFgEWZ_f8fo2vbeya6f-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;rotation=0;" parent="RoFgEWZ_f8fo2vbeya6f-1" vertex="1">
-          <mxGeometry x="72" y="244" width="140" height="60" as="geometry" />
+          <mxGeometry x="95" y="244" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RoFgEWZ_f8fo2vbeya6f-11" value="空调" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" parent="RoFgEWZ_f8fo2vbeya6f-1" vertex="1">
-          <mxGeometry x="-79" y="171.5" width="55" height="107.5" as="geometry" />
+          <mxGeometry x="60" y="89" width="55" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RoFgEWZ_f8fo2vbeya6f-19" value="300 + 20 * 4 + 200 + 100" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="RoFgEWZ_f8fo2vbeya6f-1" vertex="1">
           <mxGeometry x="372" y="97" width="167" height="30" as="geometry" />
@@ -391,6 +391,12 @@
         </mxCell>
         <mxCell id="0q71CyBxqVOlGMa8gsc0-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="RoFgEWZ_f8fo2vbeya6f-1" vertex="1">
           <mxGeometry x="215" y="279" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="fJOqs1250nBuLJbE1h_Z-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;opacity=90;" vertex="1" parent="RoFgEWZ_f8fo2vbeya6f-1">
+          <mxGeometry x="60" y="189" width="55" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="fJOqs1250nBuLJbE1h_Z-0" value="&lt;font size=&quot;1&quot;&gt;书柜&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="RoFgEWZ_f8fo2vbeya6f-1">
+          <mxGeometry x="60" y="189" width="30" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
