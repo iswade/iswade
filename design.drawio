@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T23:57:22.713Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="_-jK-S0xQo7SxSpk0U9s" version="22.1.18" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-14T23:57:59.567Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="8zYpY2Eysg6cetMS1HdC" version="22.1.18" type="github" pages="6">
   <diagram name="主卧" id="n_CLa2STl4GSUwnZCf-Y">
     <mxGraphModel dx="1165" dy="51" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="wUcGfD24pXQma7fiHZlt-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;门&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
           <mxGeometry x="326" y="1240.5" width="10" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="wUcGfD24pXQma7fiHZlt-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;窗&lt;br style=&quot;font-size: 10px;&quot;&gt;帘&lt;br style=&quot;font-size: 10px;&quot;&gt;盒&lt;br style=&quot;font-size: 10px;&quot;&gt;w20&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+        <mxCell id="wUcGfD24pXQma7fiHZlt-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;窗&lt;br style=&quot;font-size: 10px;&quot;&gt;帘&lt;br style=&quot;font-size: 10px;&quot;&gt;盒&lt;br style=&quot;font-size: 10px;&quot;&gt;w25&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
           <mxGeometry x="-76" y="948.5" width="25" height="350" as="geometry" />
         </mxCell>
         <mxCell id="wUcGfD24pXQma7fiHZlt-4" value="床头柜&lt;br style=&quot;font-size: 10px;&quot;&gt;w45 h40" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
