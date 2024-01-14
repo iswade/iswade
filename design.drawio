@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T23:57:59.567Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="8zYpY2Eysg6cetMS1HdC" version="22.1.18" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-14T23:59:11.287Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="2TfvLHaCjqBzeUSEbkO9" version="22.1.18" type="github" pages="6">
   <diagram name="主卧" id="n_CLa2STl4GSUwnZCf-Y">
     <mxGraphModel dx="1165" dy="51" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -223,7 +223,7 @@
         <mxCell id="RzYiaAtrXdFVKXFAPpzM-7" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;床头(w120 h15)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RoFgEWZ_f8fo2vbeya6f-1">
           <mxGeometry x="-419" y="-99" width="120" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="RzYiaAtrXdFVKXFAPpzM-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;窗&lt;br&gt;帘&lt;br&gt;盒&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=20;" vertex="1" parent="RoFgEWZ_f8fo2vbeya6f-1">
+        <mxCell id="RzYiaAtrXdFVKXFAPpzM-8" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;窗&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;帘&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;盒&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;w15&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=20;" vertex="1" parent="RoFgEWZ_f8fo2vbeya6f-1">
           <mxGeometry x="-314" y="-299" width="15" height="200" as="geometry" />
         </mxCell>
         <mxCell id="RzYiaAtrXdFVKXFAPpzM-10" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;门&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="RoFgEWZ_f8fo2vbeya6f-1">
@@ -565,7 +565,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CqVg6Tqw2GVn2pjmF0fm" name="数据">
-    <mxGraphModel dx="1186" dy="665" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="699" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
