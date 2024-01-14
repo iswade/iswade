@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T13:23:19.372Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="AP5P5Et5j7dnJaDL9HYm" version="22.1.18" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-14T23:57:22.713Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="_-jK-S0xQo7SxSpk0U9s" version="22.1.18" type="github" pages="6">
   <diagram name="主卧" id="n_CLa2STl4GSUwnZCf-Y">
-    <mxGraphModel dx="993" dy="-50" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1165" dy="51" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
         <mxCell id="_GExHqx3Ajl6pvGmj9oe-0" />
         <mxCell id="_GExHqx3Ajl6pvGmj9oe-1" parent="_GExHqx3Ajl6pvGmj9oe-0" />
@@ -51,6 +51,54 @@
         </mxCell>
         <mxCell id="BBVllQ53kAwXdeuwH1qI-0" value="主卧" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="_GExHqx3Ajl6pvGmj9oe-1" vertex="1">
           <mxGeometry x="-80" y="437" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wUcGfD24pXQma7fiHZlt-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+          <mxGeometry x="264" y="1117.5" width="120" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="wUcGfD24pXQma7fiHZlt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+          <mxGeometry x="-76" y="948.5" width="340" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="wUcGfD24pXQma7fiHZlt-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;门&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+          <mxGeometry x="326" y="1240.5" width="10" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="wUcGfD24pXQma7fiHZlt-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;窗&lt;br style=&quot;font-size: 10px;&quot;&gt;帘&lt;br style=&quot;font-size: 10px;&quot;&gt;盒&lt;br style=&quot;font-size: 10px;&quot;&gt;w20&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+          <mxGeometry x="-76" y="948.5" width="25" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="wUcGfD24pXQma7fiHZlt-4" value="床头柜&lt;br style=&quot;font-size: 10px;&quot;&gt;w45 h40" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+          <mxGeometry x="-51" y="949" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wUcGfD24pXQma7fiHZlt-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0;strokeColor=none;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+          <mxGeometry x="259" y="1119.5" width="10" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="wUcGfD24pXQma7fiHZlt-6" value="衣柜&lt;br&gt;w315 h60" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+          <mxGeometry x="-51" y="1238.5" width="315" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wUcGfD24pXQma7fiHZlt-7" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+          <mxGeometry x="279" y="933.5" width="170" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wUcGfD24pXQma7fiHZlt-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;门&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+          <mxGeometry x="309" y="1064" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wUcGfD24pXQma7fiHZlt-9" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;洗手池&lt;br style=&quot;font-size: 10px;&quot;&gt;w100 h60&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fontSize=10;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+          <mxGeometry x="264" y="949" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wUcGfD24pXQma7fiHZlt-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.toilet;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+          <mxGeometry x="383" y="949" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wUcGfD24pXQma7fiHZlt-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+          <mxGeometry x="439" y="949" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wUcGfD24pXQma7fiHZlt-12" value="床&lt;br&gt;w180 h220" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+          <mxGeometry x="-6" y="949" width="180" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="wUcGfD24pXQma7fiHZlt-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;br&gt;椅子&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+          <mxGeometry x="191" y="979" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wUcGfD24pXQma7fiHZlt-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;梳妆台&lt;br style=&quot;font-size: 10px;&quot;&gt;w90 h60&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+          <mxGeometry x="174" y="949" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wUcGfD24pXQma7fiHZlt-15" value="主卧" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+          <mxGeometry x="-76" y="938" width="25" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -131,8 +179,8 @@
         <mxCell id="-JYHgCb8iTwFUVJT93iv-7" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;门&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="-JYHgCb8iTwFUVJT93iv-5" vertex="1">
           <mxGeometry y="9.52079207920792" width="10" height="80.95238095238095" as="geometry" />
         </mxCell>
-        <mxCell id="-JYHgCb8iTwFUVJT93iv-9" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;椅子&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;" parent="sm2YJBdLOSuMn7vlda_h-1" vertex="1">
-          <mxGeometry x="-716" y="282" width="60" height="60" as="geometry" />
+        <mxCell id="-JYHgCb8iTwFUVJT93iv-9" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;椅子&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;" parent="sm2YJBdLOSuMn7vlda_h-1" vertex="1">
+          <mxGeometry x="-713" y="281" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-JYHgCb8iTwFUVJT93iv-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;书桌&lt;br style=&quot;font-size: 10px;&quot;&gt;w60 h140&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fontSize=10;" parent="sm2YJBdLOSuMn7vlda_h-1" vertex="1">
           <mxGeometry x="-676" y="251" width="60" height="140" as="geometry" />
@@ -160,8 +208,8 @@
         <mxCell id="RzYiaAtrXdFVKXFAPpzM-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RoFgEWZ_f8fo2vbeya6f-1">
           <mxGeometry x="-574" y="-299" width="275" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="RzYiaAtrXdFVKXFAPpzM-3" value="椅子" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fontSize=9;glass=0;shadow=0;" vertex="1" parent="RoFgEWZ_f8fo2vbeya6f-1">
-          <mxGeometry x="-509" y="-182" width="60" height="60" as="geometry" />
+        <mxCell id="RzYiaAtrXdFVKXFAPpzM-3" value="椅子&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fontSize=9;glass=0;shadow=0;" vertex="1" parent="RoFgEWZ_f8fo2vbeya6f-1">
+          <mxGeometry x="-509" y="-179" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RzYiaAtrXdFVKXFAPpzM-4" value="书桌&lt;br&gt;w120 h60" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;rotation=0;" vertex="1" parent="RoFgEWZ_f8fo2vbeya6f-1">
           <mxGeometry x="-539" y="-144" width="120" height="60" as="geometry" />
