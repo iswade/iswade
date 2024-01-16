@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T14:00:06.784Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="4rRQlLVonV6s9-3uHsnw" version="22.1.18" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-16T14:00:59.420Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="omNPRmgXRsa-P2nSPPmi" version="22.1.18" type="github" pages="6">
   <diagram name="主卧" id="n_CLa2STl4GSUwnZCf-Y">
     <mxGraphModel dx="1218" dy="59" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -10,9 +10,6 @@
         <mxCell id="fBIcxp0PtibRB7ASqkTQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="_GExHqx3Ajl6pvGmj9oe-1" vertex="1">
           <mxGeometry x="-80" y="447.5" width="340" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="fBIcxp0PtibRB7ASqkTQ-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;门&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="_GExHqx3Ajl6pvGmj9oe-1" vertex="1">
-          <mxGeometry x="322" y="739.5" width="10" height="105" as="geometry" />
-        </mxCell>
         <mxCell id="fBIcxp0PtibRB7ASqkTQ-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;窗&lt;br style=&quot;font-size: 10px;&quot;&gt;帘&lt;br style=&quot;font-size: 10px;&quot;&gt;盒&lt;br style=&quot;font-size: 10px;&quot;&gt;w25&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="_GExHqx3Ajl6pvGmj9oe-1" vertex="1">
           <mxGeometry x="-80" y="447.5" width="25" height="350" as="geometry" />
         </mxCell>
@@ -20,7 +17,7 @@
           <mxGeometry x="-55" y="447.5" width="45" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fBIcxp0PtibRB7ASqkTQ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0;strokeColor=default;" parent="_GExHqx3Ajl6pvGmj9oe-1" vertex="1">
-          <mxGeometry x="260" y="648" width="10" height="90" as="geometry" />
+          <mxGeometry x="260" y="638" width="20" height="159" as="geometry" />
         </mxCell>
         <mxCell id="fBIcxp0PtibRB7ASqkTQ-6" value="衣柜&lt;br&gt;w315 h60" style="rounded=0;whiteSpace=wrap;html=1;" parent="_GExHqx3Ajl6pvGmj9oe-1" vertex="1">
           <mxGeometry x="-55" y="737.5" width="315" height="60" as="geometry" />
@@ -53,7 +50,10 @@
           <mxGeometry x="-80" y="437" width="25" height="10" as="geometry" />
         </mxCell>
         <mxCell id="fT5ZrkKBC8xurjJ0NUit-0" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
-          <mxGeometry x="295" y="584" width="30" height="100" as="geometry" />
+          <mxGeometry x="310" y="568" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fBIcxp0PtibRB7ASqkTQ-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;门&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="_GExHqx3Ajl6pvGmj9oe-1" vertex="1">
+          <mxGeometry x="322" y="739.5" width="10" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
