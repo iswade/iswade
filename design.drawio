@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T12:11:28.730Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="owlWnsGVkbVSWvHVFq9v" version="22.1.21" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-20T12:14:41.868Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="100kSBMSAzoVwcPhBNYF" version="22.1.21" type="github" pages="7">
   <diagram name="主卧" id="n_CLa2STl4GSUwnZCf-Y">
     <mxGraphModel dx="1029" dy="-20" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -212,7 +212,7 @@
           <mxGeometry x="403" y="1039" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="93pt8aCrTcxU5U6Np_0g-9" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;imageBackground=default;fillStyle=hatch;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
-          <mxGeometry x="869.5" y="572" width="14" height="14" as="geometry" />
+          <mxGeometry x="875.5" y="572" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="93pt8aCrTcxU5U6Np_0g-11" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=right;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;imageBackground=default;fillStyle=hatch;labelPosition=left;verticalLabelPosition=middle;verticalAlign=middle;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
           <mxGeometry x="-78" y="497" width="14" height="14" as="geometry" />
@@ -263,13 +263,13 @@
           <mxGeometry x="38" y="529" width="150" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ydNHEfsBjg2YxpD3APMx-0" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
-          <mxGeometry x="789.5" y="642" width="15" height="15" as="geometry" />
+          <mxGeometry x="792.5" y="644" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ydNHEfsBjg2YxpD3APMx-3" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
-          <mxGeometry x="869.5" y="642" width="15" height="15" as="geometry" />
+          <mxGeometry x="874.5" y="644" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ydNHEfsBjg2YxpD3APMx-4" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
-          <mxGeometry x="787" y="752" width="15" height="15" as="geometry" />
+          <mxGeometry x="792" y="795" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ydNHEfsBjg2YxpD3APMx-23" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
           <mxGeometry x="340" y="434" width="15" height="15" as="geometry" />
@@ -299,7 +299,7 @@
           <mxGeometry x="-135" y="725" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="EN-IiEF2MjaWZ-0hnxR_-0" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;imageBackground=default;fillStyle=hatch;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
-          <mxGeometry x="401" y="-72" width="15" height="15" as="geometry" />
+          <mxGeometry x="436" y="-102" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="EN-IiEF2MjaWZ-0hnxR_-4" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;imageBackground=default;fillStyle=hatch;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
           <mxGeometry x="655" y="350" width="15" height="15" as="geometry" />
@@ -320,13 +320,13 @@
           <mxGeometry x="547" y="987" width="37" height="37" as="geometry" />
         </mxCell>
         <mxCell id="rtK5EqVAD4cI4b4qtJuH-13" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
-          <mxGeometry x="869.5" y="752" width="15" height="15" as="geometry" />
+          <mxGeometry x="874.5" y="795" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="rtK5EqVAD4cI4b4qtJuH-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
           <mxGeometry x="661" y="368" width="3" height="111" as="geometry" />
         </mxCell>
         <mxCell id="rtK5EqVAD4cI4b4qtJuH-21" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
-          <mxGeometry x="401" y="-8" width="75.19" height="3" as="geometry" />
+          <mxGeometry x="406" y="-8" width="75.19" height="3" as="geometry" />
         </mxCell>
         <mxCell id="rtK5EqVAD4cI4b4qtJuH-22" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
           <mxGeometry x="12" y="585" width="224" height="10" as="geometry" />
@@ -504,6 +504,18 @@
         </mxCell>
         <mxCell id="ueE0VzQadVFWP4CIcvwQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
           <mxGeometry x="455" y="-117" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_fzrx64OTCQ-nWHYaa9s-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="0RadBY_C3BraXhIQItzH-1" source="dUNyteSACdxZe5OwtSYH-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="998" y="786" as="sourcePoint" />
+            <mxPoint x="914" y="733" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_fzrx64OTCQ-nWHYaa9s-3" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
+          <mxGeometry x="746" y="506" width="169" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_fzrx64OTCQ-nWHYaa9s-4" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
+          <mxGeometry x="746" y="854" width="169" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
