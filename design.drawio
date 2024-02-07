@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T16:17:31.573Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="P3gUW74lPAsP5clqwOrG" version="23.1.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-07T16:21:01.139Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="7tmKQWlkzfjfXkQqB8Bz" version="23.1.1" type="github" pages="8">
   <diagram name="主卧" id="n_CLa2STl4GSUwnZCf-Y">
     <mxGraphModel dx="1566" dy="245" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="儿童房1" id="wMxHjX0QAZ8OOWfrfQo6">
-    <mxGraphModel dx="1866" dy="369" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="500" pageHeight="400" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="sm2YJBdLOSuMn7vlda_h-0" />
         <mxCell id="sm2YJBdLOSuMn7vlda_h-1" parent="sm2YJBdLOSuMn7vlda_h-0" />
@@ -156,7 +156,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="儿童房2" id="KK0JacYdIK9NtXBbBl1e">
-    <mxGraphModel dx="1966" dy="1045" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="400" pageHeight="400" math="0" shadow="0">
+    <mxGraphModel dx="1466" dy="769" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="400" pageHeight="400" math="0" shadow="0">
       <root>
         <mxCell id="RoFgEWZ_f8fo2vbeya6f-0" />
         <mxCell id="RoFgEWZ_f8fo2vbeya6f-1" parent="RoFgEWZ_f8fo2vbeya6f-0" />
