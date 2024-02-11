@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T12:55:57.519Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="vc87Hq5aj0a0yjZvbWWZ" version="23.1.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-11T01:07:59.535Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="p4Wj6lqOonwvNRBjM21Z" version="23.1.2" type="github" pages="8">
   <diagram name="主卧" id="n_CLa2STl4GSUwnZCf-Y">
     <mxGraphModel dx="1566" dy="245" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -28,11 +28,11 @@
         <mxCell id="fBIcxp0PtibRB7ASqkTQ-10" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="_GExHqx3Ajl6pvGmj9oe-1" vertex="1">
           <mxGeometry x="305" y="563" width="10" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fBIcxp0PtibRB7ASqkTQ-12" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;洗手池&lt;br style=&quot;font-size: 10px;&quot;&gt;w100 h60&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fontSize=10;" parent="_GExHqx3Ajl6pvGmj9oe-1" vertex="1">
+        <mxCell id="fBIcxp0PtibRB7ASqkTQ-12" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;洗手池 w100 h60&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fontSize=10;align=left;verticalAlign=top;" parent="_GExHqx3Ajl6pvGmj9oe-1" vertex="1">
           <mxGeometry x="260" y="448" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fBIcxp0PtibRB7ASqkTQ-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.toilet;" parent="_GExHqx3Ajl6pvGmj9oe-1" vertex="1">
-          <mxGeometry x="379" y="448" width="40" height="60" as="geometry" />
+          <mxGeometry x="380" y="448" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fBIcxp0PtibRB7ASqkTQ-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" parent="_GExHqx3Ajl6pvGmj9oe-1" vertex="1">
           <mxGeometry x="435" y="448" width="25" height="50" as="geometry" />
@@ -54,6 +54,18 @@
         </mxCell>
         <mxCell id="fBIcxp0PtibRB7ASqkTQ-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;门&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="_GExHqx3Ajl6pvGmj9oe-1" vertex="1">
           <mxGeometry x="326.63" y="745.13" width="10" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="32WKiea5DxjZzc9bYdfo-0" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+          <mxGeometry x="302" y="565" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="32WKiea5DxjZzc9bYdfo-1" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+          <mxGeometry x="302" y="474" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="32WKiea5DxjZzc9bYdfo-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+          <mxGeometry x="393" y="565" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="32WKiea5DxjZzc9bYdfo-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_GExHqx3Ajl6pvGmj9oe-1">
+          <mxGeometry x="395" y="490" width="10" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -191,7 +203,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="客餐厅" id="IkxFQr-uDUhr6iipd33n">
-    <mxGraphModel dx="1566" dy="1045" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
+    <mxGraphModel dx="789" dy="615" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0RadBY_C3BraXhIQItzH-0" />
         <mxCell id="0RadBY_C3BraXhIQItzH-1" parent="0RadBY_C3BraXhIQItzH-0" />
