@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T13:28:25.381Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="t-q-LWzTZvJ9LUnX4a9K" version="23.1.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-11T23:54:19.612Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="RRiVM8SqCva_BXdRa2c2" version="23.1.2" type="github" pages="8">
   <diagram name="主卧" id="n_CLa2STl4GSUwnZCf-Y">
     <mxGraphModel dx="1586" dy="265" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -206,7 +206,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="客餐厅" id="IkxFQr-uDUhr6iipd33n">
-    <mxGraphModel dx="2094" dy="1350" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1795" dy="1182" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0RadBY_C3BraXhIQItzH-0" />
         <mxCell id="0RadBY_C3BraXhIQItzH-1" parent="0RadBY_C3BraXhIQItzH-0" />
@@ -334,7 +334,7 @@
           <mxGeometry x="547.5" y="431" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rtK5EqVAD4cI4b4qtJuH-20" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
-          <mxGeometry x="534" y="420.5" width="159" height="3" as="geometry" />
+          <mxGeometry x="534" y="420.5" width="159" height="5" as="geometry" />
         </mxCell>
         <mxCell id="_RuWnqwRoR4iqQ0Z_c9s-12" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;灯带&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
           <mxGeometry x="-2" y="519" width="211" height="9" as="geometry" />
@@ -493,10 +493,10 @@
           <mxGeometry x="322" y="-91.5" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="k797bKx32_NFd_XL6KGZ-7" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
-          <mxGeometry x="428" y="-0.5" width="8" height="8" as="geometry" />
+          <mxGeometry x="429" y="-0.5" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="k797bKx32_NFd_XL6KGZ-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
-          <mxGeometry x="380" y="-117.5" width="3" height="168" as="geometry" />
+          <mxGeometry x="380" y="-117.5" width="5" height="169.5" as="geometry" />
         </mxCell>
         <mxCell id="k797bKx32_NFd_XL6KGZ-9" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;imageBackground=default;fillStyle=hatch;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
           <mxGeometry x="429" y="-91.5" width="8" height="8" as="geometry" />
