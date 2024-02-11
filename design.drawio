@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T01:27:20.784Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="iXbCqM1E0y86PEs4pK3R" version="23.1.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-11T01:30:12.027Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="GCQK7ntXC69T3Nmsijc5" version="23.1.2" type="github" pages="8">
   <diagram name="主卧" id="n_CLa2STl4GSUwnZCf-Y">
     <mxGraphModel dx="1066" dy="-31" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -526,7 +526,7 @@
           <mxGeometry x="422" y="-33" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Gfs8S0wIo7lKn9KNFwkQ-10" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;imageBackground=default;fillStyle=hatch;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
-          <mxGeometry x="431" y="-90.5" width="15" height="15" as="geometry" />
+          <mxGeometry x="414" y="-90.5" width="15" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
