@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T02:20:32.475Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="EAJgGzAx6Atsu-WKnuYX" version="23.1.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-13T02:23:09.983Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="HR7ANxLMPUWUfCLHt9i0" version="23.1.2" type="github" pages="8">
   <diagram name="主卧" id="n_CLa2STl4GSUwnZCf-Y">
     <mxGraphModel dx="1078" dy="-20" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -206,7 +206,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="客餐厅" id="IkxFQr-uDUhr6iipd33n">
-    <mxGraphModel dx="1218" dy="859" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1530" dy="1033" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0RadBY_C3BraXhIQItzH-0" />
         <mxCell id="0RadBY_C3BraXhIQItzH-1" parent="0RadBY_C3BraXhIQItzH-0" />
@@ -670,10 +670,10 @@
           <mxGeometry x="587" y="412" width="70" height="10" as="geometry" />
         </mxCell>
         <mxCell id="cSfUR8iXT51z16qkuQO8-4" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
-          <mxGeometry x="656" y="466" width="8" height="8" as="geometry" />
+          <mxGeometry x="657" y="390" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="cSfUR8iXT51z16qkuQO8-5" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;imageBackground=default;fillStyle=hatch;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
-          <mxGeometry x="657" y="390" width="8" height="8" as="geometry" />
+          <mxGeometry x="657" y="342" width="9" height="9" as="geometry" />
         </mxCell>
         <mxCell id="cSfUR8iXT51z16qkuQO8-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
           <mxGeometry x="375" y="-49" width="10" height="70" as="geometry" />
