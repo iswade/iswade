@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T01:41:35.643Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="7sI3PI9wGERBcdxjt0DI" version="23.1.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-02-25T01:54:45.367Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="w4cVokvfsKk7wg-Lbxx7" version="23.1.6" type="github" pages="9">
   <diagram name="主卧" id="n_CLa2STl4GSUwnZCf-Y">
     <mxGraphModel dx="1586" dy="265" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -1324,7 +1324,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="48mL4hDi8UicNOv_2b64" name="第 9 页">
-    <mxGraphModel dx="1186" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="400" math="0" shadow="0">
+    <mxGraphModel dx="1318" dy="739" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1350,7 +1350,7 @@
           <mxGeometry x="35" y="67" width="300" height="330" as="geometry" />
         </mxCell>
         <mxCell id="W6nwqtttZ0j8zH55XhAR-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="37" y="159.5" width="240.5" height="142.5" as="geometry" />
+          <mxGeometry x="35" y="159.5" width="240.5" height="142.5" as="geometry" />
         </mxCell>
         <mxCell id="W6nwqtttZ0j8zH55XhAR-9" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="W6nwqtttZ0j8zH55XhAR-8">
           <mxGeometry x="66" y="-54.5" width="50" height="159" as="geometry" />
@@ -1412,20 +1412,14 @@
         <mxCell id="9bRsR2ShBePShC0QhSWX-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="67" width="60" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="9bRsR2ShBePShC0QhSWX-8" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;imageBackground=default;fillStyle=hatch;" vertex="1" parent="1">
-          <mxGeometry x="529" y="92" width="9" height="9" as="geometry" />
+        <mxCell id="9bRsR2ShBePShC0QhSWX-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="482" y="108" width="45" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9bRsR2ShBePShC0QhSWX-9" value="24" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="502" y="144" width="8" height="8" as="geometry" />
+        <mxCell id="9bRsR2ShBePShC0QhSWX-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="476" y="55" width="58" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="9bRsR2ShBePShC0QhSWX-10" value="55" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="421" y="144" width="8" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="9bRsR2ShBePShC0QhSWX-11" value="55" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="421" y="251" width="8" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="9bRsR2ShBePShC0QhSWX-12" value="24" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="502" y="251" width="8" height="8" as="geometry" />
+        <mxCell id="9bRsR2ShBePShC0QhSWX-15" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="476" y="321" width="58" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
