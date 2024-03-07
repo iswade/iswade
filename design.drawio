@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T16:13:41.999Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="cvPI9vZlU_1f7MPHiGBR" version="24.0.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-07T15:21:56.642Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="7uzdMfjLG4oJrfkl_FXB" version="24.0.1" type="github" pages="9">
   <diagram name="主卧" id="n_CLa2STl4GSUwnZCf-Y">
     <mxGraphModel dx="1586" dy="265" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -626,9 +626,6 @@
         </mxCell>
         <mxCell id="EMFlRraZYLrhcCZa0YqJ-11" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
           <mxGeometry x="-401" y="-340" width="8" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="EMFlRraZYLrhcCZa0YqJ-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.flat_tv;rotation=-180;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
-          <mxGeometry x="-117" y="-188" width="206" height="10" as="geometry" />
         </mxCell>
         <mxCell id="jCfcr_v0hxT1sEw0U7My-20" value="" style="group;rotation=-270;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1" connectable="0">
           <mxGeometry x="-66" y="-371.5" width="50" height="159" as="geometry" />
