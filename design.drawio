@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T11:23:45.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="wijL_cC0mp5wHrn9XbZa" version="24.0.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-15T11:24:40.400Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="cwPeA5cksk5nS8sHmoKk" version="24.0.5" type="github" pages="9">
   <diagram name="客餐厅" id="IkxFQr-uDUhr6iipd33n">
     <mxGraphModel dx="2149" dy="2132" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -128,10 +128,10 @@
           <mxGeometry x="-237" y="-1109" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="nVZWqZn6br2YSlegwv9k-81" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
-          <mxGeometry x="-139" y="-1109" width="8" height="8" as="geometry" />
+          <mxGeometry x="-140" y="-1109" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="nVZWqZn6br2YSlegwv9k-82" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;imageBackground=default;fillStyle=hatch;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
-          <mxGeometry x="-127" y="-1185" width="8" height="8" as="geometry" />
+          <mxGeometry x="-140" y="-1197" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="nVZWqZn6br2YSlegwv9k-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
           <mxGeometry x="-649" y="-1214.5" width="340" height="350" as="geometry" />
