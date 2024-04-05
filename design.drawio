@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T14:22:51.551Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="MW80l3zg0lY3UOBYzdH1" version="24.1.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-04-05T14:27:43.667Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="YbJXTXFlwOvN0RycO1A0" version="24.1.0" type="github" pages="9">
   <diagram name="客餐厅" id="IkxFQr-uDUhr6iipd33n">
-    <mxGraphModel dx="3258" dy="2809" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2709" dy="2487" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0RadBY_C3BraXhIQItzH-0" />
         <mxCell id="0RadBY_C3BraXhIQItzH-1" parent="0RadBY_C3BraXhIQItzH-0" />
@@ -463,6 +463,9 @@
         <mxCell id="jCfcr_v0hxT1sEw0U7My-32" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;flipV=1;rotation=-180;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
           <mxGeometry x="-68.00000000000001" y="-348" width="8" height="8" as="geometry" />
         </mxCell>
+        <mxCell id="XaTy79vZez8FZcqKtv_V-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
+          <mxGeometry x="-536" y="-550.5" width="150" height="13" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -673,7 +676,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qPBDdcM-ghshvyy5wu6g" name="餐厅">
-    <mxGraphModel dx="1186" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="400" math="0" shadow="0">
+    <mxGraphModel dx="1132" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1341,7 +1344,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CqVg6Tqw2GVn2pjmF0fm" name="数据">
-    <mxGraphModel dx="1186" dy="665" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1132" dy="665" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1351,7 +1354,7 @@
         <mxCell id="XeR-BjNvQ02qMweh0LW1-1" value="玄关&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1.70 x 2.35&lt;br&gt;厨房&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1.75 x 3.90&lt;br&gt;客厅&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 4.80 x 3.90&lt;br&gt;餐厅&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2.90 x 3.90&lt;br&gt;&lt;br&gt;主卧&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 3.50 x 3.40&lt;br&gt;次卧&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2.70 x 3.40&lt;br&gt;儿童&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2.60 x 2.85&lt;br&gt;书房&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2.15 x 2.75&amp;nbsp;&lt;br&gt;&lt;br&gt;主卫&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1.70 x 2.00&lt;br&gt;客卫&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1.60 x 2.85&lt;br&gt;&lt;br&gt;阳台&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1.15 x 6.80&lt;br&gt;&lt;br&gt;冰箱&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 长905 宽592 高1900&amp;nbsp;&amp;nbsp;https://item.jd.com/100062209749.html&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="161" width="561" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="dpq20mVc4g6wEOIuGXtc-1" value="尚品电梯 宽160 高240 对角线288" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dpq20mVc4g6wEOIuGXtc-1" value="尚品电梯 宽160 高240 对角线288" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="112" y="511" width="217" height="30" as="geometry" />
         </mxCell>
       </root>
