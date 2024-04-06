@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-06T08:11:18.231Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="5ipYLiutWFO2noEi2LmZ" version="24.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-04-06T08:12:07.610Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="zKBZPtpGQYBrx2lZfmgo" version="24.2.2" type="github" pages="9">
   <diagram name="客餐厅" id="IkxFQr-uDUhr6iipd33n">
     <mxGraphModel dx="2184" dy="2178" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -430,8 +430,8 @@
         <mxCell id="jCfcr_v0hxT1sEw0U7My-24" value="60 x 120" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;horizontal=1;fontSize=8;verticalAlign=bottom;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
           <mxGeometry x="-72.00000000000001" y="-235" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCfcr_v0hxT1sEw0U7My-29" value="80x 170" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=8;rotation=-360;horizontal=1;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
-          <mxGeometry x="-54.000000000000014" y="-404" width="85" height="170" as="geometry" />
+        <mxCell id="jCfcr_v0hxT1sEw0U7My-29" value="80x 170" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=8;rotation=-360;horizontal=1;arcSize=11;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
+          <mxGeometry x="-54.000000000000014" y="-405" width="85" height="170" as="geometry" />
         </mxCell>
         <mxCell id="jCfcr_v0hxT1sEw0U7My-30" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;flipV=1;rotation=-90;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
           <mxGeometry x="-17.000000000000014" y="-323" width="8" height="8" as="geometry" />
