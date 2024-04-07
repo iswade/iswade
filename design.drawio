@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T02:13:49.093Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="jFJBN3A0RVgIhBKwGAK-" version="24.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-04-07T02:14:10.210Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="sZfcU3YiTas94mWOYNmZ" version="24.2.2" type="github" pages="9">
   <diagram name="客餐厅" id="IkxFQr-uDUhr6iipd33n">
     <mxGraphModel dx="2332" dy="2265" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -467,7 +467,7 @@
           <mxGeometry x="-674.5" y="-359" width="45" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-mBNLoHgGkNZIeDdY9G6-0" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
-          <mxGeometry x="-648" y="-375" width="90" height="200" as="geometry" />
+          <mxGeometry x="-648" y="-375" width="90" height="201" as="geometry" />
         </mxCell>
         <mxCell id="pLfsoR1YA6ecQ8Dbc1X0-3" value="投影仪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
           <mxGeometry x="-569" y="-205" width="30" height="30" as="geometry" />
