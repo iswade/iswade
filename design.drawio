@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-06T08:13:02.646Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="BJ31fLuxxc7Ywdf2j_GX" version="24.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-04-07T01:02:14.640Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="SUtGpqoHsx5mpdcn6cjQ" version="24.2.2" type="github" pages="9">
   <diagram name="客餐厅" id="IkxFQr-uDUhr6iipd33n">
-    <mxGraphModel dx="2184" dy="2178" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2332" dy="2265" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0RadBY_C3BraXhIQItzH-0" />
         <mxCell id="0RadBY_C3BraXhIQItzH-1" parent="0RadBY_C3BraXhIQItzH-0" />
@@ -442,35 +442,41 @@
         <mxCell id="jCfcr_v0hxT1sEw0U7My-32" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;flipV=1;rotation=-90;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
           <mxGeometry x="-17.000000000000014" y="-362" width="8" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="DbzL6K-UkcTbANNclbJ6-5" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
+        <mxCell id="DbzL6K-UkcTbANNclbJ6-5" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
           <mxGeometry x="-422" y="-362" width="8" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="DbzL6K-UkcTbANNclbJ6-6" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
-          <mxGeometry x="-393" y="-362" width="8" height="8" as="geometry" />
+        <mxCell id="DbzL6K-UkcTbANNclbJ6-6" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
+          <mxGeometry x="-399" y="-362" width="8" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="DbzL6K-UkcTbANNclbJ6-9" value="沙发(w260 h95)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
-          <mxGeometry x="-547" y="-270" width="260" height="95" as="geometry" />
+        <mxCell id="DbzL6K-UkcTbANNclbJ6-9" value="沙发(w250 h108)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
+          <mxGeometry x="-550" y="-283" width="251" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="DbzL6K-UkcTbANNclbJ6-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
-          <mxGeometry x="-589" y="-527" width="252" height="15" as="geometry" />
+        <mxCell id="DbzL6K-UkcTbANNclbJ6-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
+          <mxGeometry x="-589" y="-523" width="252" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="PqTkcLXVPRc5h3GEiRJG-6" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
-          <mxGeometry x="-451" y="-362" width="8" height="8" as="geometry" />
+        <mxCell id="PqTkcLXVPRc5h3GEiRJG-6" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
+          <mxGeometry x="-444" y="-362" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="nVZWqZn6br2YSlegwv9k-138" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A6A6A6;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
           <mxGeometry x="-673" y="-255" width="25" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DbzL6K-UkcTbANNclbJ6-1" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;arcSize=27;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
-          <mxGeometry x="-571" y="-346" width="45" height="50" as="geometry" />
+        <mxCell id="DbzL6K-UkcTbANNclbJ6-1" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;arcSize=27;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
+          <mxGeometry x="-569" y="-359" width="45" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DbzL6K-UkcTbANNclbJ6-2" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;arcSize=27;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
-          <mxGeometry x="-674.5" y="-346" width="45" height="50" as="geometry" />
+        <mxCell id="DbzL6K-UkcTbANNclbJ6-2" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;arcSize=27;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
+          <mxGeometry x="-674.5" y="-359" width="45" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-mBNLoHgGkNZIeDdY9G6-0" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
+        <mxCell id="-mBNLoHgGkNZIeDdY9G6-0" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
           <mxGeometry x="-648" y="-375" width="90" height="200" as="geometry" />
         </mxCell>
         <mxCell id="pLfsoR1YA6ecQ8Dbc1X0-3" value="投影仪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
           <mxGeometry x="-569" y="-205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3OsB6rGdwqj3fVQmhqrQ-3" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
+          <mxGeometry x="-490" y="-362" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="3OsB6rGdwqj3fVQmhqrQ-4" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="0RadBY_C3BraXhIQItzH-1">
+          <mxGeometry x="-467" y="-362" width="8" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
