@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T02:37:53.875Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="zd00uba5_xLQ3UsU-S8-" version="24.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-04-07T02:43:55.790Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="uSk3Dw56lpsLY-LHzrW_" version="24.2.2" type="github" pages="9">
   <diagram name="客餐厅" id="IkxFQr-uDUhr6iipd33n">
     <mxGraphModel dx="2229" dy="2205" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -461,13 +461,13 @@
           <mxGeometry x="-673" y="-255" width="25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DbzL6K-UkcTbANNclbJ6-1" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;arcSize=27;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
-          <mxGeometry x="-597" y="-355" width="45" height="50" as="geometry" />
+          <mxGeometry x="-585" y="-355" width="45" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DbzL6K-UkcTbANNclbJ6-2" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;arcSize=27;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
-          <mxGeometry x="-660" y="-354" width="45" height="50" as="geometry" />
+          <mxGeometry x="-663" y="-354" width="45" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-mBNLoHgGkNZIeDdY9G6-0" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
-          <mxGeometry x="-648" y="-375" width="80" height="200" as="geometry" />
+          <mxGeometry x="-648" y="-375" width="90" height="200" as="geometry" />
         </mxCell>
         <mxCell id="pLfsoR1YA6ecQ8Dbc1X0-3" value="投影仪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="0RadBY_C3BraXhIQItzH-1" vertex="1">
           <mxGeometry x="-576.5" y="-205" width="30" height="30" as="geometry" />
