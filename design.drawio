@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T23:35:00.996Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="M47slX7_YWMyeaI1Ar8V" version="24.4.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-05-25T23:36:01.103Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="d2Kwm4M0UQQPQGPO6hKx" version="24.4.4" type="github" pages="8">
   <diagram name="家" id="Wvx7GrM7vGHvfZqgHbB5">
     <mxGraphModel dx="2332" dy="2265" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -289,8 +289,8 @@
         <mxCell id="YtrfnGiDdhUhbPH4Tr_i-134" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" parent="YtrfnGiDdhUhbPH4Tr_i-1" vertex="1">
           <mxGeometry x="-445" y="-342" width="8" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="YtrfnGiDdhUhbPH4Tr_i-136" value="沙发(w300 h106)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" parent="YtrfnGiDdhUhbPH4Tr_i-1" vertex="1">
-          <mxGeometry x="-630" y="-256" width="315" height="100" as="geometry" />
+        <mxCell id="YtrfnGiDdhUhbPH4Tr_i-136" value="沙发(w280 h106)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" parent="YtrfnGiDdhUhbPH4Tr_i-1" vertex="1">
+          <mxGeometry x="-616" y="-256" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YtrfnGiDdhUhbPH4Tr_i-138" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" parent="YtrfnGiDdhUhbPH4Tr_i-1" vertex="1">
           <mxGeometry x="-467" y="-342" width="8" height="8" as="geometry" />
