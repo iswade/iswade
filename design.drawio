@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-09T10:37:05.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="GF1L26QHrmG9z9DfIxT-" version="24.2.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-06-09T10:38:39.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="eXfMx2VhTAIYBxIcgOeL" version="24.2.2" type="github" pages="8">
   <diagram name="家" id="Wvx7GrM7vGHvfZqgHbB5">
     <mxGraphModel dx="1954" dy="2171" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -302,10 +302,10 @@
           <mxGeometry x="-490" y="-342" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="YtrfnGiDdhUhbPH4Tr_i-74" value="书桌&amp;nbsp; w210 h70&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;rotation=0;" parent="YtrfnGiDdhUhbPH4Tr_i-1" vertex="1">
-          <mxGeometry x="-90" y="31" width="210" height="60" as="geometry" />
+          <mxGeometry x="-88" y="31" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YtrfnGiDdhUhbPH4Tr_i-76" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;书柜&amp;nbsp;w210 h35&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="YtrfnGiDdhUhbPH4Tr_i-1" vertex="1">
-          <mxGeometry x="-90" y="56" width="210" height="35" as="geometry" />
+          <mxGeometry x="-88" y="56" width="210" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-8gj0vlBENcJru8yaRgm-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" parent="YtrfnGiDdhUhbPH4Tr_i-1" vertex="1">
           <mxGeometry x="-97" y="-599" width="8" height="8" as="geometry" />
