@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T23:32:25.048Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/128.0.0.0" etag="1jw0qD5titw1L69O3T30" version="24.6.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-06-29T23:36:00.097Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/128.0.0.0" etag="hkIVT2srRCHQ4pveBfeR" version="24.6.4" type="github" pages="9">
   <diagram name="家" id="Wvx7GrM7vGHvfZqgHbB5">
     <mxGraphModel dx="2332" dy="2265" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -39,6 +39,11 @@
         </mxCell>
         <mxCell id="YtrfnGiDdhUhbPH4Tr_i-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="YtrfnGiDdhUhbPH4Tr_i-1" vertex="1">
           <mxGeometry x="-338" y="-154" width="35" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="DWn1LP3mGQasMW1zKLX--1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YtrfnGiDdhUhbPH4Tr_i-1" source="YtrfnGiDdhUhbPH4Tr_i-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-463" y="-221" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YtrfnGiDdhUhbPH4Tr_i-14" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" parent="YtrfnGiDdhUhbPH4Tr_i-1" vertex="1">
           <mxGeometry x="-648" y="-544" width="370" height="40" as="geometry" />
@@ -274,8 +279,8 @@
         <mxCell id="YtrfnGiDdhUhbPH4Tr_i-120" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="YtrfnGiDdhUhbPH4Tr_i-1" vertex="1">
           <mxGeometry x="-300" y="-1015" width="130" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="YtrfnGiDdhUhbPH4Tr_i-121" value="衣柜&lt;br&gt;w300 h60" style="rounded=0;whiteSpace=wrap;html=1;" parent="YtrfnGiDdhUhbPH4Tr_i-1" vertex="1">
-          <mxGeometry x="-624" y="-924.5" width="300" height="60" as="geometry" />
+        <mxCell id="YtrfnGiDdhUhbPH4Tr_i-121" value="衣柜&lt;br&gt;w320 h60" style="rounded=0;whiteSpace=wrap;html=1;" parent="YtrfnGiDdhUhbPH4Tr_i-1" vertex="1">
+          <mxGeometry x="-624" y="-924.5" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YtrfnGiDdhUhbPH4Tr_i-122" value="次卧" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="YtrfnGiDdhUhbPH4Tr_i-1" vertex="1">
           <mxGeometry x="-673" y="-846" width="25" height="10" as="geometry" />
@@ -284,7 +289,7 @@
           <mxGeometry x="-445" y="-342" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="YtrfnGiDdhUhbPH4Tr_i-136" value="沙发(w280 h100)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" parent="YtrfnGiDdhUhbPH4Tr_i-1" vertex="1">
-          <mxGeometry x="-616" y="-256" width="280" height="100" as="geometry" />
+          <mxGeometry x="-618" y="-256" width="300" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YtrfnGiDdhUhbPH4Tr_i-138" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" parent="YtrfnGiDdhUhbPH4Tr_i-1" vertex="1">
           <mxGeometry x="-467" y="-342" width="8" height="8" as="geometry" />
