@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T14:44:01.409Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" etag="xroCm4uI1EwwKChgss2h" version="24.6.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-07-10T14:44:25.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" etag="mAWcrcefUPWrw-OkSrbe" version="24.6.4" type="github" pages="9">
   <diagram name="家" id="Wvx7GrM7vGHvfZqgHbB5">
     <mxGraphModel dx="2386" dy="2271" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -573,7 +573,7 @@
         <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-52" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; 琴w135 h30&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
           <mxGeometry x="-2046.5" y="-981" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-53" value="儿童房1" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
+        <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-53" value="儿童房" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
           <mxGeometry x="-1891" y="-1221" width="40" height="10" as="geometry" />
         </mxCell>
         <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-54" value="&lt;br&gt;&lt;br&gt;窗&lt;br style=&quot;font-size: 6px;&quot;&gt;帘&lt;br style=&quot;font-size: 6px;&quot;&gt;盒&lt;br style=&quot;font-size: 6px;&quot;&gt;w15" style="rounded=0;whiteSpace=wrap;html=1;opacity=5;fontSize=6;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
