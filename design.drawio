@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T13:15:06.767Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" etag="H7PSpIRmKzm28DI-JT4f" version="24.6.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-07-10T14:44:01.409Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" etag="xroCm4uI1EwwKChgss2h" version="24.6.4" type="github" pages="9">
   <diagram name="家" id="Wvx7GrM7vGHvfZqgHbB5">
     <mxGraphModel dx="2386" dy="2271" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -658,7 +658,7 @@
           <mxGeometry x="-1692.5" y="-484" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-81" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A6A6A6;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
-          <mxGeometry x="-2666" y="-772" width="25" height="112" as="geometry" />
+          <mxGeometry x="-2666" y="-740" width="25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A6A6A6;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
           <mxGeometry x="-2811" y="-350" width="480" height="30" as="geometry" />
@@ -706,7 +706,7 @@
           <mxGeometry x="-2405" y="-538" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-97" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A6A6A6;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
-          <mxGeometry x="-2666" y="-431" width="25" height="80" as="geometry" />
+          <mxGeometry x="-2666" y="-441" width="25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-98" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
           <mxGeometry x="-2440" y="-538" width="8" height="8" as="geometry" />
@@ -830,6 +830,9 @@
         </mxCell>
         <mxCell id="K2ytpTE53MKQNBGK8oJG-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
           <mxGeometry x="-2582.5" y="-700" width="250" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="YeaEWGGsPIlEiAV3P82E-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A6A6A6;" vertex="1" parent="k1oyfZ1dDkZ6s-F3WKjL-1">
+          <mxGeometry x="-2666" y="-772" width="25" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
