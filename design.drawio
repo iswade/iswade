@@ -304,7 +304,7 @@
         <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-107" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;梳妆台&lt;br style=&quot;font-size: 10px;&quot;&gt;w100 h60&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
           <mxGeometry x="-2392" y="-1557" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-108" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
+        <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-108" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;180x180&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
           <mxGeometry x="-2266" y="-1557" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-109" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;洗手池 w90 h60&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fontSize=10;align=center;verticalAlign=top;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
@@ -323,7 +323,7 @@
           <mxGeometry x="-2146" y="-1526" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-114" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
-          <mxGeometry x="-2152" y="-1483" width="30" height="60" as="geometry" />
+          <mxGeometry x="-2152" y="-1465" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-115" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
           <mxGeometry x="-2225" y="-1526" width="8" height="8" as="geometry" />
@@ -408,6 +408,9 @@
         </mxCell>
         <mxCell id="vRHW_TCy9nQNCJGNs3_E-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k1oyfZ1dDkZ6s-F3WKjL-1">
           <mxGeometry x="-2195" y="-260" width="35" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="vRHW_TCy9nQNCJGNs3_E-2" value="晾&lt;div&gt;衣&lt;/div&gt;&lt;div&gt;架&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k1oyfZ1dDkZ6s-F3WKjL-1">
+          <mxGeometry x="-2752" y="-1089" width="50" height="142" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
