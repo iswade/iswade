@@ -331,7 +331,7 @@
         <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-116" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;窗&lt;br style=&quot;font-size: 10px;&quot;&gt;帘&lt;br style=&quot;font-size: 10px;&quot;&gt;盒&lt;br style=&quot;font-size: 10px;&quot;&gt;w25&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
           <mxGeometry x="-2642" y="-1557" width="25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-117" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;arcSize=50;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
+        <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-117" value="40" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;arcSize=50;horizontal=0;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
           <mxGeometry x="-2615" y="-1553" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-118" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;门&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
