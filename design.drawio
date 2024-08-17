@@ -412,6 +412,9 @@
         <mxCell id="vRHW_TCy9nQNCJGNs3_E-2" value="晾&lt;div&gt;衣&lt;/div&gt;&lt;div&gt;架&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k1oyfZ1dDkZ6s-F3WKjL-1">
           <mxGeometry x="-2752" y="-1089" width="50" height="142" as="geometry" />
         </mxCell>
+        <mxCell id="vRHW_TCy9nQNCJGNs3_E-3" value="烟道" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=1.5;rotation=-90;horizontal=1;" vertex="1" parent="k1oyfZ1dDkZ6s-F3WKjL-1">
+          <mxGeometry x="-1706.75" y="-550.75" width="61" height="44.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
