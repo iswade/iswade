@@ -403,6 +403,12 @@
         <mxCell id="weecl8GIUupPo9biIbHG-2" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;窗帘盒&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
           <mxGeometry x="-2642" y="-972" width="15" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vRHW_TCy9nQNCJGNs3_E-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k1oyfZ1dDkZ6s-F3WKjL-1">
+          <mxGeometry x="-2330.5" y="-260" width="134.5" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="vRHW_TCy9nQNCJGNs3_E-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k1oyfZ1dDkZ6s-F3WKjL-1">
+          <mxGeometry x="-2195" y="-260" width="35" height="11" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
