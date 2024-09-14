@@ -266,10 +266,10 @@
           <mxGeometry x="-2666" y="-1189" width="43" height="10" as="geometry" />
         </mxCell>
         <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-94" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
-          <mxGeometry x="-2437" y="-685" width="8" height="8" as="geometry" />
+          <mxGeometry x="-2440" y="-685" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-96" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
-          <mxGeometry x="-2460" y="-685" width="8" height="8" as="geometry" />
+          <mxGeometry x="-2462" y="-685" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-97" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A6A6A6;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
           <mxGeometry x="-2659" y="-588" width="20" height="90" as="geometry" />
