@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.7.16" pages="11">
   <diagram name="无客厅" id="4yZhdVAis62mtHY-0zvv">
-    <mxGraphModel dx="3765" dy="1916" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3859" dy="1968" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
         <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-0" />
         <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-1" parent="k1oyfZ1dDkZ6s-F3WKjL-0" />
@@ -215,7 +215,7 @@
           <mxGeometry x="-1773.5" y="-600" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-76" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;267x60" style="rounded=0;whiteSpace=wrap;html=1;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
-          <mxGeometry x="-1585" y="-821.5" width="60" height="267" as="geometry" />
+          <mxGeometry x="-1713.5" y="-826.5" width="60" height="267" as="geometry" />
         </mxCell>
         <mxCell id="k1oyfZ1dDkZ6s-F3WKjL-78" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;flipV=1;direction=south;" parent="k1oyfZ1dDkZ6s-F3WKjL-1" vertex="1">
           <mxGeometry x="-1690.5" y="-790" width="8" height="8" as="geometry" />
@@ -606,9 +606,6 @@
         </mxCell>
         <mxCell id="zZXJGQf_Vd4CLiUcH-nQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k1oyfZ1dDkZ6s-F3WKjL-1">
           <mxGeometry x="-1731" y="-525" width="40.5" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="zZXJGQf_Vd4CLiUcH-nQ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;" vertex="1" parent="k1oyfZ1dDkZ6s-F3WKjL-1">
-          <mxGeometry x="-1769" y="-539" width="79" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
