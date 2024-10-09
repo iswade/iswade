@@ -792,9 +792,6 @@
         <mxCell id="Pza_9lAzNx21k8MN9XYj-59" value="洗衣机&lt;div&gt;100x60&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pza_9lAzNx21k8MN9XYj-1">
           <mxGeometry x="-2761" y="-1177" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pza_9lAzNx21k8MN9XYj-60" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="Pza_9lAzNx21k8MN9XYj-1">
-          <mxGeometry x="-2719" y="-714" width="8" height="8" as="geometry" />
-        </mxCell>
         <mxCell id="Pza_9lAzNx21k8MN9XYj-61" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="Pza_9lAzNx21k8MN9XYj-1">
           <mxGeometry x="-2719" y="-645" width="8" height="8" as="geometry" />
         </mxCell>
@@ -1021,7 +1018,7 @@
           <mxGeometry x="-2780" y="-915" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pza_9lAzNx21k8MN9XYj-140" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="Pza_9lAzNx21k8MN9XYj-1">
-          <mxGeometry x="-2719" y="-778" width="8" height="8" as="geometry" />
+          <mxGeometry x="-2719" y="-815" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="Pza_9lAzNx21k8MN9XYj-141" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;flipV=1;" vertex="1" parent="Pza_9lAzNx21k8MN9XYj-1">
           <mxGeometry x="-1773.5" y="-697" width="8" height="8" as="geometry" />
@@ -1123,7 +1120,7 @@
           <mxGeometry x="-1896" y="-596" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="Pza_9lAzNx21k8MN9XYj-179" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;imageBackground=default;fillStyle=hatch;" vertex="1" parent="Pza_9lAzNx21k8MN9XYj-1">
-          <mxGeometry x="-2719.5" y="-714" width="9" height="9" as="geometry" />
+          <mxGeometry x="-2719.5" y="-730" width="9" height="9" as="geometry" />
         </mxCell>
         <mxCell id="Pza_9lAzNx21k8MN9XYj-180" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pza_9lAzNx21k8MN9XYj-1">
           <mxGeometry x="-2588.5" y="-844" width="266" height="12" as="geometry" />
@@ -1224,8 +1221,8 @@
         <mxCell id="JTqrtsbjv2s7cMIgOtCO-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pza_9lAzNx21k8MN9XYj-1">
           <mxGeometry x="-2677.5" y="-698" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JTqrtsbjv2s7cMIgOtCO-16" value="灯" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="Pza_9lAzNx21k8MN9XYj-1">
-          <mxGeometry x="-2636.5" y="-631" width="30" height="60" as="geometry" />
+        <mxCell id="JTqrtsbjv2s7cMIgOtCO-16" value="灯" style="rounded=1;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="Pza_9lAzNx21k8MN9XYj-1">
+          <mxGeometry x="-2644.5" y="-637" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTqrtsbjv2s7cMIgOtCO-22" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="Pza_9lAzNx21k8MN9XYj-1">
           <mxGeometry x="-2040" y="-409" width="174" height="200" as="geometry" />
