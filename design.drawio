@@ -1233,7 +1233,7 @@
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-0" />
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-1" parent="JXsI7Fl4dqFq0iygdZ6I-0" />
         <mxCell id="pqKRfUThJkPrZoQC8z3p-12" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=44;" vertex="1" parent="JXsI7Fl4dqFq0iygdZ6I-1">
-          <mxGeometry x="-2473" y="-711.5" width="80" height="60" as="geometry" />
+          <mxGeometry x="-2518" y="-711" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pqKRfUThJkPrZoQC8z3p-23" value="" style="group" vertex="1" connectable="0" parent="JXsI7Fl4dqFq0iygdZ6I-1">
           <mxGeometry x="-2762" y="-719" width="114" height="220" as="geometry" />
@@ -1804,6 +1804,30 @@
         </mxCell>
         <mxCell id="0W4ZZfAWgDTEZlUdALwI-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;洗地机&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;30x31&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="JXsI7Fl4dqFq0iygdZ6I-1">
           <mxGeometry x="-2758" y="-1148" width="31" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ojUDvyEzD9Yf7rNFREuI-0" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="JXsI7Fl4dqFq0iygdZ6I-1">
+          <mxGeometry x="-2440" y="-685" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ojUDvyEzD9Yf7rNFREuI-1" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="JXsI7Fl4dqFq0iygdZ6I-1">
+          <mxGeometry x="-2462" y="-685" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ojUDvyEzD9Yf7rNFREuI-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="JXsI7Fl4dqFq0iygdZ6I-1">
+          <mxGeometry x="-2484" y="-685" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ojUDvyEzD9Yf7rNFREuI-3" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="JXsI7Fl4dqFq0iygdZ6I-1">
+          <mxGeometry x="-2415.5" y="-685" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ojUDvyEzD9Yf7rNFREuI-4" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="JXsI7Fl4dqFq0iygdZ6I-1">
+          <mxGeometry x="-2503.5" y="-685" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ojUDvyEzD9Yf7rNFREuI-5" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;imageBackground=default;fillStyle=hatch;direction=south;" vertex="1" parent="JXsI7Fl4dqFq0iygdZ6I-1">
+          <mxGeometry x="-2504" y="-685.5" width="9" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="ojUDvyEzD9Yf7rNFREuI-6" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;imageBackground=default;fillStyle=hatch;direction=south;" vertex="1" parent="JXsI7Fl4dqFq0iygdZ6I-1">
+          <mxGeometry x="-2416.5" y="-686" width="9" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="ojUDvyEzD9Yf7rNFREuI-7" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="JXsI7Fl4dqFq0iygdZ6I-1">
+          <mxGeometry x="-2503.5" y="-685" width="8" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
