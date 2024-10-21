@@ -1416,7 +1416,7 @@
           <mxGeometry x="-1769" y="-888" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-66" value="175x60&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
-          <mxGeometry x="-1828.5" y="-562" width="174.5" height="63" as="geometry" />
+          <mxGeometry x="-1828.5" y="-562" width="115" height="63" as="geometry" />
         </mxCell>
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-67" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;flipV=1;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
           <mxGeometry x="-1773.5" y="-600" width="8" height="8" as="geometry" />
