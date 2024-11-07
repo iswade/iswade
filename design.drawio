@@ -1868,11 +1868,8 @@
         <mxCell id="2EjdGUqNSAbhxYVH5Zg3-11" value="开关" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
           <mxGeometry x="-2675" y="-842" width="22.4" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="dzleBx15fg6owor3OZsK-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
-          <mxGeometry x="-1922" y="-1048" width="70" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="JXsI7Fl4dqFq0iygdZ6I-55" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
-          <mxGeometry x="-2001" y="-1036" width="60" height="30" as="geometry" />
+        <mxCell id="JXsI7Fl4dqFq0iygdZ6I-55" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
+          <mxGeometry x="-1907.25" y="-1005" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dzleBx15fg6owor3OZsK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
           <mxGeometry x="-1922" y="-1067" width="41" height="18" as="geometry" />
