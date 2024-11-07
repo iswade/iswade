@@ -1505,11 +1505,8 @@
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-97" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
           <mxGeometry x="-2111" y="-1557" width="25" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JXsI7Fl4dqFq0iygdZ6I-98" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
-          <mxGeometry x="-2226.5" y="-1435.5" width="8" height="8" as="geometry" />
-        </mxCell>
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-99" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;imageBackground=default;fillStyle=hatch;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
-          <mxGeometry x="-2145" y="-1540" width="8" height="8" as="geometry" />
+          <mxGeometry x="-2145" y="-1536" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-100" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
           <mxGeometry x="-2226.5" y="-1536" width="8" height="8" as="geometry" />
@@ -1839,7 +1836,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2EjdGUqNSAbhxYVH5Zg3-1" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
-          <mxGeometry x="-2138" y="-1476" width="60" height="30" as="geometry" />
+          <mxGeometry x="-2140" y="-1469" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2EjdGUqNSAbhxYVH5Zg3-2" value="开关" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
           <mxGeometry x="-2125.4" y="-1213" width="22.4" height="21" as="geometry" />
