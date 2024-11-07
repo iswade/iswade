@@ -1395,7 +1395,7 @@
           <mxGeometry x="-2035" y="-999" width="15" height="91" as="geometry" />
         </mxCell>
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-56" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;imageBackground=default;fillStyle=hatch;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
-          <mxGeometry x="-1973" y="-935" width="9" height="9" as="geometry" />
+          <mxGeometry x="-1974" y="-942" width="9" height="9" as="geometry" />
         </mxCell>
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-57" value="洗衣机&lt;div&gt;100x60&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
           <mxGeometry x="-2761" y="-1177" width="100" height="60" as="geometry" />
@@ -1870,6 +1870,9 @@
         </mxCell>
         <mxCell id="dzleBx15fg6owor3OZsK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
           <mxGeometry x="-1922" y="-1067" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="LQji6lLJdEsPl9HVUdNj-0" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="JXsI7Fl4dqFq0iygdZ6I-1">
+          <mxGeometry x="-1973" y="-1012" width="8" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
