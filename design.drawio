@@ -1249,7 +1249,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="无客厅 的副本 的副本" id="zxTGrt67yHYoGrWFrbde">
-    <mxGraphModel dx="4440" dy="2175" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4386" dy="2261" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-0" />
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-1" parent="JXsI7Fl4dqFq0iygdZ6I-0" />
@@ -1425,19 +1425,19 @@
           <mxGeometry x="-1828.5" y="-562" width="115" height="63" as="geometry" />
         </mxCell>
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-67" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;flipV=1;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
-          <mxGeometry x="-1786.5" y="-600" width="8" height="8" as="geometry" />
+          <mxGeometry x="-1769" y="-562" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-68" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;267x60" style="rounded=0;whiteSpace=wrap;html=1;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
           <mxGeometry x="-1714" y="-827" width="60" height="264" as="geometry" />
         </mxCell>
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-69" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;flipV=1;direction=south;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
-          <mxGeometry x="-1685.5" y="-790" width="8" height="8" as="geometry" />
+          <mxGeometry x="-1685.5" y="-762" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-70" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;flipV=1;direction=south;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
-          <mxGeometry x="-1786.5" y="-790" width="8" height="8" as="geometry" />
+          <mxGeometry x="-1716.5" y="-834" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-71" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;flipV=1;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
-          <mxGeometry x="-1685.5" y="-600" width="8" height="8" as="geometry" />
+          <mxGeometry x="-1685.5" y="-630" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-72" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A6A6A6;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
           <mxGeometry x="-2661" y="-887" width="20" height="80" as="geometry" />
@@ -1585,9 +1585,6 @@
         </mxCell>
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-131" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;direction=south;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
           <mxGeometry x="-2226.5" y="-791" width="8" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="JXsI7Fl4dqFq0iygdZ6I-134" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;flipV=1;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
-          <mxGeometry x="-1786.5" y="-697" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-135" value="&lt;div&gt;窗&lt;/div&gt;&lt;div&gt;帘&lt;/div&gt;&lt;div&gt;盒&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;15" style="rounded=0;whiteSpace=wrap;html=1;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
           <mxGeometry x="-2779" y="-885" width="15" height="387" as="geometry" />
@@ -1791,10 +1788,10 @@
           <mxGeometry x="-2132" y="-285" width="135" height="32" as="geometry" />
         </mxCell>
         <mxCell id="GEUSi12ZiWxgzeizi9LG-0" value="路由器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
-          <mxGeometry x="-2316" y="-888" width="44" height="41.25" as="geometry" />
+          <mxGeometry x="-2333" y="-890.25" width="44" height="41.25" as="geometry" />
         </mxCell>
         <mxCell id="GEUSi12ZiWxgzeizi9LG-1" value="路由器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
-          <mxGeometry x="-2364" y="-1258.13" width="44" height="41.25" as="geometry" />
+          <mxGeometry x="-2356" y="-1254.25" width="44" height="41.25" as="geometry" />
         </mxCell>
         <mxCell id="GEUSi12ZiWxgzeizi9LG-3" value="音箱" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
           <mxGeometry x="-2440.5" y="-600" width="27" height="27" as="geometry" />
