@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="26.0.11" pages="16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.0.9" pages="16">
   <diagram name="无客厅" id="4yZhdVAis62mtHY-0zvv">
     <mxGraphModel dx="4047" dy="2072" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -4009,7 +4009,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EtID12rT7jgPHR3s4zqU" name="护墙板">
-    <mxGraphModel dx="1586" dy="661" grid="0" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" math="0" shadow="0">
+    <mxGraphModel dx="1037" dy="361" grid="0" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4365,7 +4365,7 @@
           <mxGeometry x="386" y="501" width="25" height="107" as="geometry" />
         </mxCell>
         <mxCell id="CRFu-NPpopWroa-N5l9B-16" value="壁灯" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="358" y="401" width="12.5" height="60" as="geometry" />
+          <mxGeometry x="358" y="416" width="12.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Fttx1Tp-ValurywwpevO-2" value="30" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="51" width="30" height="19" as="geometry" />
@@ -4612,6 +4612,9 @@
         </mxCell>
         <mxCell id="mgh6928L5g0ibsxOji4A-52" value="70" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-36" y="273" width="50" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="t5HdH1PiuiGdfYP1mQzb-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;rotation=-50;" vertex="1" parent="1">
+          <mxGeometry x="352" y="464" width="16" height="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
