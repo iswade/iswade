@@ -1338,7 +1338,7 @@
           <mxGeometry x="-2641" y="-1176" width="15" height="265" as="geometry" />
         </mxCell>
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-35" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;书桌&lt;br style=&quot;font-size: 10px;&quot;&gt;w100 h60&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
-          <mxGeometry x="-2628" y="-971" width="105" height="60" as="geometry" />
+          <mxGeometry x="-2626" y="-973" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-36" value="" style="group" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1" connectable="0">
           <mxGeometry x="-2281" y="-1177" width="10" height="105" as="geometry" />
@@ -1550,7 +1550,7 @@
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-116" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;推&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;拉&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;门&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
           <mxGeometry x="-2658.5" y="-1046" width="16.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JXsI7Fl4dqFq0iygdZ6I-118" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
+        <mxCell id="JXsI7Fl4dqFq0iygdZ6I-118" value="门" style="rounded=0;whiteSpace=wrap;html=1;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
           <mxGeometry x="-2330.5" y="-260" width="134.5" height="11" as="geometry" />
         </mxCell>
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-119" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
@@ -1608,7 +1608,7 @@
           <mxGeometry x="-2655.75" y="-1157" width="44.5" height="9" as="geometry" />
         </mxCell>
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-146" value="床(123x210)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;rotation=0;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
-          <mxGeometry x="-2522" y="-1115" width="123" height="205" as="geometry" />
+          <mxGeometry x="-2534.5" y="-1115" width="135" height="205" as="geometry" />
         </mxCell>
         <mxCell id="JXsI7Fl4dqFq0iygdZ6I-147" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorAccordion;dx=0.92;rotation=90;" parent="JXsI7Fl4dqFq0iygdZ6I-1" vertex="1">
           <mxGeometry x="-2655.75" y="-938" width="44.5" height="9" as="geometry" />
